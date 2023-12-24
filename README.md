@@ -18,11 +18,7 @@ Statistical methods are employed to uncover patterns, trends, and correlations w
 **4. Feature Engineering:**
 Feature engineering involves creating new relevant features or transforming existing ones to enhance the predictive power of the model. This step is crucial for extracting meaningful insights from the dataset.
 
-**5. Machine Learning Model Training:**
-The project utilizes two classification algorithms, Random Forest and KNN, to predict employee attrition. These algorithms are chosen for their ability to handle complex relationships within the data and provide accurate predictions. The models are trained on historical data, considering features such as age, length of service, department, and other relevant variables.
 
-**6. Model Evaluation and Optimization:**
-The performance of the models is evaluated using metrics such as accuracy, precision, recall, and F1 score. The models are optimized through hyperparameter tuning to enhance their predictive capabilities.
 
 **7. Deployment and Continuous Monitoring:**
 Upon achieving satisfactory model performance, the predictive models are deployed for real-world application. Continuous monitoring ensures that the models remain effective as new data becomes available.
